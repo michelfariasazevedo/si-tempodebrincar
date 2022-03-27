@@ -3,7 +3,7 @@
 Site institucional do Centro Educacional Tempo de Brincar, desenvolvido com foco na apresentação da instituição, totalmente personalizado, leve e responsivo.
 O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
-🔗 https://michelfariasazevedo.github.io/lp-jandersonsilveria/
+🔗 https://michelfariasazevedo.github.io/si-tempodebrincar/
 ##
 
 ✔️ Possui:
