@@ -1,7 +1,6 @@
 ### 📂 Projeto: Site Institucional
 #### Tempo de Brincar
-Site institucional do Centro Educacional Tempo de Brincar, desenvolvido com foco na apresentação da instituição, totalmente personalizado, leve e responsivo.
-O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
+Site institucional do Centro Educacional Tempo de Brincar, desenvolvido com foco institucional: missão, visão e valores. Site totalmente personalizado, leve e responsivo. O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
 🔗 https://michelfariasazevedo.github.io/si-tempodebrincar/
 ##
